@@ -59,7 +59,3 @@ LoginKW
     Input Text        id=LoginNameTextBox    @{CREDENTIALS}[0]
     Input Password    id=PasswordTextBox    &{LOGIN}[password]  
     Click Button      id=LoginButton    
-
-
-
-
